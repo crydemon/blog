@@ -1,0 +1,5 @@
+spring:
+  thymeleaf:
+    model: HTML
+  profiles:
+    active: dev
